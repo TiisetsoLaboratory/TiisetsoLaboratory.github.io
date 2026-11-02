@@ -1,0 +1,380 @@
+# Sprint Backlog
+
+**Project:** Tech Empower 
+
+## Evidence
+
+- 🗂️ [Tech Empower Trello board](https://trello.com/b/NqVLW18P/tech-empower3)
+
+![Trello board showing the Sprint 1, Sprint 2 and Sprint 3 columns](files/product-backlog_png.PNG)
+
+*Figure 1: The Sprint 1, 2 and 3 columns. Each sprint holds daily cards with a 5/5 checklist, and Sprint 1 Day 1 shows its dates (14 Jul - 15 Jul).*
+
+## What the Sprint Backlog is
+
+The actionable plan for one sprint: the specific cards the team pulled from the
+Product Backlog to reach the sprint goal. On our board each sprint is a column,
+and each day of the sprint is a card with a checklist and all five members
+assigned.
+
+## Our sprints
+
+**Sprint 1: Form the team** (Day 1 scheduled 14 Jul to 15 Jul 2026)
+
+| Card | Status |
+|---|---|
+| Day 1: Form the Project Team | Complete, 5/5 tasks |
+| Day 2: Assign Team Roles | Complete, 5/5 tasks |
+| Day 3: Review Assignment Requirements | Complete, 5/5 tasks |
+| Day 4: Brainstorm Business Ideas | Complete, 5/5 tasks |
+
+**Sprint 2: Choose the business and community**
+
+| Card | Status |
+|---|---|
+| Day 1: Select Business Idea (Tech Empower Labs) | Complete, 5/5 tasks |
+| Day 2: Create Trello Board | Complete, 5/5 tasks |
+| Day 3: Identify Target Community | Complete, 5/5 tasks |
+| Day 4: Define the Community Problem | Complete, 5/5 tasks |
+
+**Sprint 3: Customer survey**
+
+| Card | Status |
+|---|---|
+| Day 1: Plan Customer Survey | All 5 tasks ticked |
+| Day 2: Create Google Forms Survey | Complete, 5/5 tasks |
+| Day 3: Share Survey with Learners | Complete, 5/5 tasks |
+| Day 4: Collect Survey Responses | Not marked complete |
+
+**Sprint 9: Build the website**
+
+| Card | Status |
+|---|---|
+| Day 1: Design About Us Page | Complete, 5/5 tasks |
+| Day 2: Develop Service Page | Complete, 5/5 tasks |
+| Day 3: Implement Contact Page & Finalize Testing | Complete, 5/5 tasks |.
+
+## My Role
+
+I was the team's Developer / Writer and, with the other four members, I was
+assigned to every card in the Sprint 1, 2, 3 and 9 columns. My responsibility on
+them was the content and documentation side of the work. In Sprint 9, which built
+the website, the written-content tasks (such as drafting the mission statement and
+detailing the IT training packages) fit that role.
+
+## Reflection
+
+**What we did:** At the start of each sprint we moved cards from the Product
+Backlog into a sprint column, assigned the team and worked through each day's
+checklist.
+
+**What I learned:**
+- A sprint of three or four daily cards is small enough to finish. Sprints 1 and
+  2 are fully complete.
+- Each card's five-task checklist told us exactly what was left each day.
+- The Sprint 9 cards show the plan turning into a product: the About Us,
+  Services and Contact pages for our GitHub Pages website.
+- A card with a five-task checklist is a good size: small enough to finish and
+  big enough to matter.
+
+**Challenge and what I took from it:** Not every sprint was closed properly.
+Sprint 3's last card is not marked complete, and Sprints 4 to 8 were never given
+their own columns. The lesson is that a sprint only works as a record if it is
+closed at the end.
+
+**How it connects:** Sprint cards come from the Product Backlog, and the Agile
+Logbook records what happened on each of them.
+
+**What I would improve:** I would give every sprint its own column and close it
+properly. Sprints 4 to 8 were never moved out of the backlog, and Sprint 3's
+last card is not marked complete, so the board does not show a full history.
+
+---
+[⬅ Back to portfolio](../index.html)
+
+# User Stories and Tasks
+
+**Project:** Tech Empower | **Subject:** Project Presentation 3 (PRP370S/371S/372S)
+
+## Evidence
+
+- 🗂️ [Tech Empower Trello board](https://trello.com/b/NqVLW18P/tech-empower3)
+
+![Trello card: Sprint 1, Form the Project Team](files/product-backlog-sp1_png.PNG)
+
+*Figure 1: Sprint 1 story card with its description, five-task checklist (100% complete), label and assigned members.*
+
+![Trello card: Sprint 2, Select Business Idea (Tech Empower Labs)](files/product-backlog-sp2_png.PNG)
+
+*Figure 2: Sprint 2 story card. The description holds the user story and the checklist holds its tasks.*
+
+## What a user story is
+
+A short description of a feature from the end user's point of view:
+**As a** [user], **I want** [goal], **so that** [benefit]. On our Trello board
+each story is written in the card description, and its tasks are the checklist
+on the same card.
+
+## Our stories and tasks
+
+**Sprint 1: setting up the team**
+
+| Card | User story | Tasks (checklist) |
+|---|---|---|
+| Day 1: Form the Project Team | As a project team, we want to organise ourselves so that the project runs smoothly. | Identify group members<br>Exchange contact details<br>Create WhatsApp group<br>Schedule first meeting<br>Confirm final team |
+| Day 2: Assign Team Roles | As a project leader, I want to assign roles so that everyone knows their responsibilities. | Assign Project Leader<br>Assign Researcher<br>Assign Designer<br>Assign Presenter<br>Confirm final team |
+| Day 3: Review Assignment Requirements | As the Project Leader, I want to review the project requirements so that the team understands the project scope, objectives, and deliverables before starting work. | Read assignment brief<br>Identify marking rubric<br>Record deadlines<br>Clarify unclear requirements<br>Approve project plan |
+| Day 4: Brainstorm Business Ideas | As the business owner, I want to brainstorm business ideas so that I can identify the best solution for schools and communities. | Generate business ideas<br>Discuss each idea<br>Identify community problems<br>Record meeting notes<br>Finalise shortlisted idea |
+
+**Sprint 2: choosing the business and the community**
+
+| Card | User story | Tasks (checklist) |
+|---|---|---|
+| Day 1: Select Business Idea (Tech Empower Labs) | As a school principal, I want the business to offer a practical digital learning solution so that learners can improve their ICT skills. | Present shortlisted ideas<br>Compare advantages<br>Vote as a team<br>Confirm Tech Empower Labs<br>Record decision |
+| Day 2: Create Trello Board | As the Project Leader, I want to create a Trello board so that the team can organize, assign, and track project tasks efficiently. | Create Trello workspace<br>Create project board<br>Add team members<br>Create task lists<br>Review board structure |
+| Day 3: Identify Target Community | As a community member, I want digital learning services that address my community's needs so that I can improve my IT skills and opportunities. | Identify Cape Town schools<br>Research target schools<br>Identify target customers<br>Record community needs<br>Approve target community |
+| Day 4: Define the Community Problem | (no story written on this card) | Describe the problem<br>Identify affected users<br>Collect supporting evidence<br>Review problem statement<br>Approve final problem |
+
+**Sprint 9: building the website**
+
+| Card | User story | Tasks (checklist) |
+|---|---|---|
+| Day 1: Design About Us Page | As a prospective high school partner or client, I want to view a clear homepage and About Us page detailing Tech Empower's mission, so that I understand who is behind the initiative and our commitment to bridging the digital divide in Cape Town. | Wireframe page layout and hero section<br>Draft mission statement and company vision<br>Add team member profile details<br>Apply CSS styles and colors<br>Review page alignment and mobile view |
+| Day 2: Develop Service Page | As a school principal or educator, I want to navigate dedicated Products and Services pages detailing hardware, internet access, and IT training, so that I can easily evaluate how Tech Empower's digital learning services can support our high school students. | Outline hardware offerings (laptops, routers)<br>Detail IT training packages (Word, Excel, Coding)<br>Insert package details<br>Verify navigation links between pages<br>Format service grid/cards |
+| Day 3: Implement Contact Page & Finalize Testing | As a site visitor, I want to use an interactive Contact page with a direct form submission, so that I can quickly reach out to book services, request hardware setups, or ask questions. | Build user contact form (Name, Email, Message)<br>Add company contact details and location<br>Test form submission validation<br>Perform cross-browser testing<br>Finalize website code for GitHub Pages deployment |
+
+Cards from Sprint 3 onwards carry the task checklist, but not every card has a
+user story written on it.
+
+## My Role
+
+I was the team's Developer / Writer, responsible for content creation,
+documentation and technical writing. All five members are assigned to each sprint
+card, and my part of the work was the written side. Several tasks in the
+checklists above are documentation tasks, such as "Record meeting notes", "Record
+deadlines", "Record community needs" and "Record decision", and they fall within
+my role of keeping the team's work written down.
+
+## Reflection
+
+**What we did:** We turned the assignment into user stories on Trello cards,
+broke each into a checklist of five tasks and worked through them sprint by
+sprint, from forming the team in Sprint 1 to building the website in Sprint 9.
+
+**What I learned:**
+- A story needs a user and a benefit. Our early Sprint 1 stories are written from
+  the team's own point of view ("As a project team", "As the Project Leader"),
+  while the later stories name real users: a school principal, a community
+  member, a prospective partner and a site visitor. The later ones describe the
+  customer's need better.
+- Splitting a story into five tasks made the work easy to share and to check.
+  Every task has a clear finish, which fits our Definition of Done.
+- Verbs make good task names. Tasks such as "Identify", "Record", "Compare" and
+  "Approve" are easy to tick off, because it is clear when each one is finished.
+
+**Challenge and what I took from it:** The main challenge was keeping the
+stories of five people consistent. Some cards follow the "As a... I want... so
+that..." pattern well, while others, such as Sprint 2 Day 4, have no story at all.
+The lesson was to check every story against the pattern before moving a card
+forward.
+
+**How it connects:** The stories sit on the cards of the Product Backlog,
+selected cards form each Sprint Backlog, and progress is recorded in the Agile
+Logbook.
+
+**What I would improve:** I would write a user story on every card, because the
+Sprint 2 Day 4 card and several later cards only have tasks, and I would write
+all stories from the end user's point of view.
+
+---
+[⬅ Back to portfolio](../index.html)
+
+# Agile Logbook
+
+**Project:** Tech Empower | **Subject:** Project Presentation 3 (PRP370S/371S/372S)
+
+## Evidence
+
+- 🗂️ [Tech Empower Trello board](https://trello.com/b/NqVLW18P/tech-empower3)
+
+## What the logbook is
+
+A record of the team's day-to-day work: stand-ups, sprint plans and retrospective
+notes. Our charter set the ceremonies this logbook follows.
+
+| Ceremony | How often | Purpose |
+|---|---|---|
+| Daily stand-up | Daily (15 min) | Sync on the Trello board and deal with blockers |
+| Planning | Every 2 weeks | Prioritise new targets or modules |
+| Review / demo | End of sprint | Show completed work |
+| Retrospective | End of sprint | Discuss how to improve collaboration |
+
+## Team activity from Trello
+
+These entries come from the board's activity history (the latest 1,000
+recorded actions).
+
+| Date | What the team did on the board |
+|---|---|
+| 14 - 15 Jul 2026 | Sprint 1, Day 1 "Form the Project Team" scheduled on the board |
+| 23 Jul 2026 | First recorded work on the board: members added to cards, checklist items ticked on several cards and cards such as the Sprint 1 and Sprint 2 stories marked complete (Pule, Tumelo and Jabu) |
+| 24 Jul 2026 | Tumelo ticked checklist items on 11 cards and marked "Sprint 3. Create Google Forms Survey", "Sprint 3. Share Survey with Learners" and "Sprint 5. Write Business Description" complete; Jabu marked "Plan Customer Survey" complete |
+| 6 Aug 2026 | Jabu ticked checklist items on 11 cards and marked daily cards complete, including Select Business Idea, Create Trello Board, Identify Target Community, Create Google Forms Survey and Share Survey with Learners |
+| 21 Oct 2026 | Tumelo marked "Sprint 6. Plan Computer Lab Installation Service" complete |
+| 27 Oct 2026 | Jabu completed the three Sprint 9 daily cards and the Sprint 9 About Us, Services, Contact and Products page cards |
+
+## How the board shows our ceremonies
+
+| Ceremony | What the board shows |
+|---|---|
+| Daily stand-up | Members added to cards and checklist items ticked on the dates in the table above. No separate stand-up notes were written on the cards. |
+| Planning | Sprint columns with daily cards, and Sprint 1 Day 1 scheduled for 14 - 15 Jul 2026. |
+| Review / demo | The Sprint 9 cards for the About Us, Services, Contact and Products pages were completed on 27 Oct 2026. |
+| Retrospective | The backlog card "Conduct Sprint Retrospective" had not been completed, so no retrospective was recorded on the board. |
+
+## Retrospective (written from the board evidence)
+
+**What went well**
+- Sprints 1 and 2 were completed in full, with every daily card's five tasks
+  ticked.
+- The team kept one structure throughout: a card per day with a five-task
+  checklist.
+- All the Sprint 9 website cards were completed.
+
+**What did not go well**
+- Board updates came in bursts (23 - 24 Jul, 6 Aug, 27 Oct) instead of daily as
+  our charter says.
+- Sprints 4 to 8 were never given their own columns, and the last Sprint 3 card
+  is not marked complete.
+- No stand-up or retrospective notes were recorded on the cards.
+
+**What we should change**
+- Update Trello the same day, as the charter says.
+- Close each sprint properly and run the retrospective at its end.
+- Add a short comment on a card for each stand-up, so the logbook has notes to
+  show.
+
+## Reflection
+
+**What we did:** We used Trello as the record of our work and followed the
+ceremonies in our team charter, from daily stand-ups to the sprint review and
+retrospective.
+
+**What I learned:**
+- The activity history shows that our board updates came in bursts (23 and 24
+  Jul, 6 Aug and 27 Oct) instead of daily. Our charter says to update Trello in
+  real time, so the board did not always match the work.
+- A logbook with dates shows how long the work really took, which a plain task
+  list cannot.
+- The closing cards in the backlog (Conduct Sprint Retrospective, Document
+  Lessons Learned) had not been completed, so the retrospective needs to be
+  written up properly.
+- Without notes written at the time, a logbook can only be rebuilt from the
+  board's activity history, which shows what was ticked off but not why or what
+  the blockers were.
+
+**Challenge and what I took from it:** The logbook is thin where we did not
+write things down. We have dates for card updates but no stand-up or retrospective
+notes, so the retrospective above had to be written from the board evidence. The
+lesson is to record notes at the time.
+
+**How it connects:** The logbook is where the user stories, backlogs and sprint
+cards come together as dated work.
+
+**What I would improve:** I would record each stand-up the same day, with a short
+note on the card, so that the logbook shows who did what and when.
+
+---
+[⬅ Back to portfolio](../index.html)
+
+# Product Backlog
+
+**Project:** Tech Empower | **Subject:** Project Presentation 3 (PRP370S/371S/372S)
+
+## Evidence
+
+- 🗂️ [Tech Empower Trello board](https://trello.com/b/NqVLW18P/tech-empower3)
+
+![Trello board with the Product backlog column next to the Sprint 1, 2 and 3 columns](files/product-backlog_png.PNG)
+
+*Figure 1: The Product backlog column (148 cards) beside the sprint columns. Cards are moved right into a sprint column when a sprint starts.*
+
+![Product backlog card: Sprint 1, Form the Project Team](files/product-backlog-sp1_png.PNG)
+
+*Figure 2: A backlog card for Sprint 1 with its user story, label, members and subtasks.*
+
+![Product backlog card: Sprint 2, Select Business Idea (Tech Empower Labs)](files/product-backlog-sp2_png.PNG)
+
+*Figure 3: A backlog card for Sprint 2 with its activity history.*
+
+## What the Product Backlog is
+
+A prioritised list of all the work, features and improvements the product needs.
+Ours is the "Product backlog" column on the Trello board. It holds **148 cards**,
+ordered from top to bottom in the order the work is planned.
+
+## How our backlog is organised
+
+| Group | Cards | What it contains |
+|---|---|---|
+| Sprint 1 to 9 cards | 34 | The planned sprints, from "Sprint 1. Form the Project Team" and "Sprint 2. Select Business Idea (Tech Empower Labs)" to "Sprint 9: Create About Us Page" |
+| Phase 5 to 14 cards | 114 | Larger pieces of work, each phase with its own cards (see below) |
+
+The phases are: Phase 5 ICT Product Catalogue, Phase 6 Inventory and Suppliers,
+Phase 7 Marketing Strategy, Phase 8 Business Feasibility, Phase 9 Computer Lab
+Installation, Phase 10 ICT Sales and Customer Support, Phase 11 Business
+Operations, Phase 12 Presentation Preparation, Phase 13 Business Growth and
+Expansion and Phase 14 Project Closure and Future.
+
+The sprints cover the early work: forming the team, choosing the business,
+running the customer survey, analysing the results, defining the business,
+planning services and sales, and building the website. The phases that follow
+cover the product catalogue, suppliers, marketing, feasibility, computer lab
+installation, sales, operations, presentation, growth and closing the project
+(for example "Conduct Sprint Retrospective" and "Launch Tech Empower Labs").
+
+## Status of the backlog
+
+- 119 of the 148 cards have a task checklist.
+- 17 cards are marked complete and 23 have every checklist item ticked.
+- The closing cards (Conduct Sprint Review, Conduct Sprint Retrospective,
+  Document Lessons Learned, Officially Close the Project and others) are still
+  waiting at the bottom of the list, which is where a backlog keeps work that has
+  not started.
+
+## My Role
+
+I was the team's Developer / Writer and, like the rest of the team, I was
+assigned to the sprint cards in the backlog (Sprint 1 to Sprint 9). My
+responsibility on them was the content and documentation side of the work.
+
+## Reflection
+
+**What we did:** We listed everything the project needs on one board and ordered
+it, so that the team could always see what comes next.
+
+**What I learned:**
+- One list for all the work meant the whole project was visible at once, from
+  the first team meeting to closing the project.
+- Grouping cards into sprints and phases showed the order of the work and which
+  parts depend on others, such as the survey coming before the business
+  definition.
+- The Product Backlog and the sprints work together. Only the cards for the
+  current sprint are pulled out, so the rest of the 148 cards can wait without
+  getting in the way.
+
+**Challenge and what I took from it:** The backlog is large, and with 148 cards
+it is hard to see which ones matter next. The sprint columns solve this by
+pulling out only a few cards at a time. The lesson is to keep far-off cards rough
+and refine them nearer their sprint.
+
+**How it connects:** The backlog is where each user story starts. Cards chosen
+for a sprint become the Sprint Backlog, and the Agile Logbook records what
+happened as they were completed.
+
+**What I would improve:** I would keep the backlog smaller and more current,
+because most of the 114 phase cards are still far from being worked on, and I
+would refine them closer to the sprint in which they are needed.
+
+---
+[⬅ Back to portfolio](../index.html)
