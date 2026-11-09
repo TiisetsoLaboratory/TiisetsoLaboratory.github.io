@@ -1,103 +1,385 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Personal Portfolio</title>
+
+    <title>Tiisetso Xolane Tukane | CV</title>
+
     <style>
-        body {
-            font-family: Arial, sans-serif;
+        * {
             margin: 0;
-            background: #f4f6f9;
-            color: #333;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            background: #eef2f7;
+            color: #263244;
+            line-height: 1.7;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 45px auto;
+            background: white;
+            box-shadow: 0 8px 30px rgba(0,0,0,0.08);
+            border-radius: 10px;
+            overflow: hidden;
         }
 
         header {
             background: #172554;
             color: white;
-            text-align: center;
-            padding: 40px 20px;
+            padding: 55px 50px;
         }
 
-        nav {
-            background: #1e3a8a;
-            padding: 15px;
-            text-align: center;
+        header h1 {
+            font-size: 34px;
+            margin-bottom: 5px;
         }
 
-        nav a {
+        header h3 {
+            font-weight: 400;
+            color: #bfdbfe;
+            font-size: 19px;
+            margin-bottom: 20px;
+        }
+
+        .contact {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 12px 22px;
+            font-size: 14px;
+        }
+
+        .contact a {
             color: white;
             text-decoration: none;
-            margin: 0 15px;
+        }
+
+        .contact a:hover {
+            text-decoration: underline;
+        }
+
+        main {
+            padding: 40px 50px;
         }
 
         section {
-            max-width: 900px;
-            margin: 30px auto;
-            padding: 25px;
-            background: white;
-            border-radius: 8px;
+            margin-bottom: 35px;
         }
 
-        h2 {
+        section h2 {
             color: #1e3a8a;
+            font-size: 19px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            border-bottom: 2px solid #dbeafe;
+            padding-bottom: 9px;
+            margin-bottom: 17px;
+        }
+
+        section p {
+            font-size: 15px;
+            color: #465365;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 14px;
+        }
+
+        th {
+            background: #eff6ff;
+            color: #1e3a8a;
+            text-align: left;
+        }
+
+        th, td {
+            padding: 13px 12px;
+            border-bottom: 1px solid #e5e7eb;
+        }
+
+        .job {
+            margin-bottom: 23px;
+        }
+
+        .job h3 {
+            color: #263244;
+            font-size: 17px;
+        }
+
+        .company {
+            color: #1e40af;
+            font-weight: bold;
+        }
+
+        .date {
+            color: #64748b;
+            font-size: 14px;
+            font-style: italic;
+        }
+
+        .skills {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 12px;
+        }
+
+        .skill {
+            background: #eff6ff;
+            padding: 12px 15px;
+            border-left: 4px solid #2563eb;
+            border-radius: 4px;
+            font-size: 14px;
+        }
+
+        .reference {
+            margin-bottom: 18px;
+        }
+
+        .reference h3 {
+            font-size: 16px;
+            color: #263244;
+        }
+
+        .reference p {
+            font-size: 14px;
         }
 
         footer {
             background: #172554;
-            color: white;
+            color: #cbd5e1;
             text-align: center;
-            padding: 20px;
+            padding: 18px;
+            font-size: 13px;
+        }
+
+        .print-button {
+            display: block;
+            margin: 25px auto;
+            padding: 12px 25px;
+            background: #1e40af;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 14px;
+        }
+
+        .print-button:hover {
+            background: #172554;
+        }
+
+        @media (max-width: 650px) {
+            .container {
+                margin: 0;
+                border-radius: 0;
+            }
+
+            header {
+                padding: 35px 25px;
+            }
+
+            header h1 {
+                font-size: 27px;
+            }
+
+            main {
+                padding: 30px 25px;
+            }
+
+            .skills {
+                grid-template-columns: 1fr;
+            }
+
+            table {
+                font-size: 12px;
+            }
+
+            th, td {
+                padding: 9px 6px;
+            }
+        }
+
+        @media print {
+            body {
+                background: white;
+            }
+
+            .container {
+                margin: 0;
+                box-shadow: none;
+                max-width: 100%;
+            }
+
+            .print-button {
+                display: none;
+            }
+
+            header, footer {
+                print-color-adjust: exact;
+                -webkit-print-color-adjust: exact;
+            }
         }
     </style>
 </head>
+
 <body>
 
-    <header>
-        <h1>Welcome to My Portfolio</h1>
-        <p>ICT Student | Technology Enthusiast | Future Cloud Professional</p>
-    </header>
+    <div class="container">
 
-    <nav>
-        <a href="#about">About</a>
-        <a href="#skills">Skills</a>
-        <a href="#projects">Projects</a>
-        <a href="#contact">Contact</a>
-    </nav>
+        <header>
+            <h1>Tiisetso Xolane Tukane</h1>
+            <h3>IT Prospect</h3>
 
-    <section id="about">
-        <h2>About Me</h2>
-        <p>
-            I am an ICT student interested in networking, cybersecurity,
-            cloud computing and technology. This website showcases my
-            learning journey, skills and projects.
-        </p>
-    </section>
+            <div class="contact">
+                <span>📞 <a href="tel:0630407222">063 040 7222</a></span>
 
-    <section id="skills">
-        <h2>My Skills</h2>
-        <ul>
-            <li>Computer Networking</li>
-            <li>Linux Fundamentals</li>
-            <li>Cybersecurity Fundamentals</li>
-            <li>Cloud Computing Fundamentals</li>
-            <li>Technical Support</li>
-        </ul>
-    </section>
+                <span>📧 <a href="mailto:222206616@mycput.ac.za">
+                    222206616@mycput.ac.za
+                </a></span>
 
-    <section id="projects">
-        <h2>My Projects</h2>
-        <p>More information about my academic and technical projects will be added here.</p>
-    </section>
+                <span>📍 South Africa</span>
 
-    <section id="contact">
-        <h2>Contact</h2>
-        <p>GitHub: <a href="https://github.com/TiisetsoLaboratory">Visit my GitHub profile</a></p>
-    </section>
+                <span>🐙 <a href="https://github.com/TiisetsoLaboratory"
+                    target="_blank" rel="noopener noreferrer">GitHub Profile</a></span>
+            </div>
+        </header>
 
-    <footer>
-        <p>&copy; 2026 My Personal Portfolio</p>
-    </footer>
+        <main>
+
+            <section>
+                <h2>Profile</h2>
+
+                <p>
+                    Final-year Information Technology student specializing
+                    in Communication Networks. Skilled in network
+                    fundamentals, routing and switching, and network
+                    troubleshooting. Highly motivated, detail orientated
+                    and eager to apply technical knowledge in a practical
+                    environment while contributing to organizational success.
+                </p>
+            </section>
+
+            <section>
+                <h2>Education</h2>
+
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Qualification</th>
+                            <th>Institution</th>
+                            <th>Year</th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                        <tr>
+                            <td>Diploma in Information Communication Technology</td>
+                            <td>Cape Peninsula University of Technology</td>
+                            <td>2024 – Present</td>
+                        </tr>
+
+                        <tr>
+                            <td>Higher Certificate</td>
+                            <td>Cape Peninsula University of Technology</td>
+                            <td>2022</td>
+                        </tr>
+
+                        <tr>
+                            <td>Matric</td>
+                            <td>Sir John Adamson High School</td>
+                            <td>2017</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </section>
+
+            <section>
+                <h2>Work Experience</h2>
+
+                <div class="job">
+                    <h3>Customer Service Representative</h3>
+                    <p class="company">Alorica</p>
+                    <p class="date">August 2024 – December 2024</p>
+
+                    <p>
+                        Worked as a customer service representative for a
+                        US campaign, assisting customers with queries
+                        relating to their online orders.
+                    </p>
+                </div>
+
+                <div class="job">
+                    <h3>Customer Service Agent</h3>
+                    <p class="company">Merchants</p>
+                    <p class="date">June 2023 – December 2023</p>
+
+                    <p>
+                        Worked as a customer service representative for a
+                        US campaign, assisting customers with queries
+                        relating to their online orders.
+                    </p>
+                </div>
+            </section>
+
+            <section>
+                <h2>Technical Skills</h2>
+
+                <div class="skills">
+                    <div class="skill">
+                        <strong>Networking:</strong> Cisco Packet Tracer
+                    </div>
+
+                    <div class="skill">
+                        <strong>Database:</strong> MySQL
+                    </div>
+
+                    <div class="skill">
+                        <strong>Operating Systems:</strong> Linux
+                    </div>
+
+                    <div class="skill">
+                        <strong>Productivity:</strong> Microsoft Office
+                    </div>
+                </div>
+            </section>
+
+            <section>
+                <h2>References</h2>
+
+                <div class="reference">
+                    <h3>Naeem Gould</h3>
+                    <p>Alorica</p>
+                    <p>📞 <a href="tel:+27679998678">+27 67 999 8678</a></p>
+                </div>
+
+                <div class="reference">
+                    <h3>Chante Kemp</h3>
+                    <p>Merchants</p>
+                    <p>📞 <a href="tel:+27726402041">+27 72 640 2041</a></p>
+                    <p>📧 <a href="mailto:chante.kemp@merchantscx.com">
+                        chante.kemp@merchantscx.com
+                    </a></p>
+                </div>
+            </section>
+
+            <button class="print-button" onclick="window.print()">
+                Print / Save CV as PDF
+            </button>
+
+        </main>
+
+        <footer>
+            <p>© 2026 Tiisetso Xolane Tukane | Professional CV</p>
+        </footer>
+
+    </div>
 
 </body>
 </html>
